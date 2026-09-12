@@ -139,4 +139,4 @@ client.on('messageCreate', async (message) => {
     }
 });
 
-client.login('MTU0Mjg1MTU1NjM4OTQyMTA5Ng.GS8On6.9-Vf-I0qYaM-Y2pARiHuyVOxMwlUpmzmDTiODw');
+client.login('MTU0MTU4MjQ4NTg1NzY0MDQ1OQ.GkNiPH.DHUD_3UN8d7pW6MwuHIXuo9j89J7pMycAEfwV0');
